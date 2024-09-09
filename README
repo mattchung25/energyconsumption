@@ -1,0 +1,3 @@
+In this repository is the code used to produce the data visualizations seen in the Energy Consumption project. I used open sourced data
+to to analyze the usages of energy throughout the greater Seattle area and used R to aggregate, parse, and analyze the data to be more accessibily used
+in Flourish.
